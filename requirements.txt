@@ -1,0 +1,6 @@
+# https://github.com/SleepySlothx/SleepEasyBOT
+aiohttp == 3.7.4.post0
+cogwatch == 2.1.0
+colorama == 0.4.4
+configuration == 0.4.2
+py_cord == 1.7.3
